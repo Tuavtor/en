@@ -2,12 +2,14 @@ body {
 	background-color: white;
 }
 
-.eXP {
+#eXP {
 	background: grey;
 	padding:40px;
+	margin:20px;
 }
 
-.spark {
+#spark {
 	background: grey;
 	padding:40px;
+	margin:20px;
 }
