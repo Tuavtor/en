@@ -1,15 +1,7 @@
 body {
-	background-color: white;
+    background-image: url(https://tuavtor.github.io/en/wp6774809-cloudy-mountains-4k-wallpapers.jpg);
+    color: rgb(255, 255, 255);
 }
-
-#eXP {
-	background: grey;
-	padding:40px;
-	margin:20px;
-}
-
-#spark {
-	background: grey;
-	padding:40px;
-	margin:20px;
+a {
+    color: blueviolet;
 }
